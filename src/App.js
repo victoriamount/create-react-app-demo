@@ -8,6 +8,8 @@ function App() {
     <main>
       <h1>Victoria's Site</h1>
       <p>Hi!</p>
+
+      <div>👻</div>
     </main>
   );
 }
